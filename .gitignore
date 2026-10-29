@@ -1,0 +1,12 @@
+# Môi trường ảo Python
+.venv/
+venv/
+__pycache__/
+
+# Dữ liệu (Không đẩy data lên Git)
+data/raw/
+data/processed/
+
+# File rác của Jupyter Notebook và Mac/Windows
+.ipynb_checkpoints/
+.DS_Store
